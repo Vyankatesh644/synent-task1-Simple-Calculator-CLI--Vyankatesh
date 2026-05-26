@@ -106,4 +106,4 @@ Arithmetic Operations
 
 ## 📸 Project Screenshot
 
-![Simple Calculator](simple calculator.png)
+![Simple Calculator](simple-calculator.png)
