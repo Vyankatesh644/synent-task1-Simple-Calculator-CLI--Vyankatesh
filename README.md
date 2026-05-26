@@ -104,5 +104,4 @@ Conditional Statements
 Exception Handling
 Arithmetic Operations
 
-## Project Screenshot
-![Simple Calculator](simple%20calculator.png)
+![Simple Calculator](simple-calculator.png)
